@@ -33,14 +33,18 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+The basis of semantic UI is to give the web page readability. If it is not there at times it can be the make or break of a web page. 
+2. Name two big differences between ```display: block;``` and ```display: inline;```. 
 
-2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
 3. What are the 4 areas of the box model?
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+The cross-axis is the point of reference when align-items is used to center the content in a flexbox.
 
-5. Explain why git is valuable to a team of developers.
+5. Explain why git is valuable to a team of developers. 
+Git is a valuable resource to a group of developers because they can all simultaneously work on a project individually and remain in sync with one another by periodically/frequently submitting their code, reviewing, and merging it with one another as it is updated. It enables the collaboration process to run very smoothly, with less hiccups and confusion. It is a game changer for developers, hands down. 
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
